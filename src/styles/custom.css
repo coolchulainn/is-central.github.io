@@ -310,7 +310,7 @@
 
 /* Combat Stage Cards */
 .stage-card.combat {
-  background: #4a0252;
+  background: #6d2e75;
   color: white;
   border-color: #2d0132;
   border-width: 3px;
@@ -346,9 +346,9 @@
 
 /* Boss Stage Cards */
 .stage-card.boss {
-  background: #451a0a;
+  background: #593325;
   color: white;
-  border-color: #92400e;
+  border-color: #331b0c;
   border-width: 3px;
   outline: 2px solid rgba(255, 255, 255, 0.3);
   outline-offset: -1px;
@@ -464,7 +464,7 @@
 }
 
 .legend-icon.combat {
-  background-color: #4a0252;
+  background-color: #6d2e75;
   border-color: #2d0132;
 }
 
@@ -535,7 +535,7 @@
   position: relative;
   border-color: #d97706;
   border-width: 3px;
-  background: #4a0252;
+  background: #6d2e75;
   outline: 2px solid rgba(255, 255, 255, 0.3);
   outline-offset: -1px;
   box-shadow: 0 6px 16px rgba(74, 2, 82, 0.4);
@@ -583,12 +583,12 @@
 
 /* Spine of Epoch Disclaimer */
 .spine-epoch-disclaimer {
-  background: linear-gradient(135deg, rgba(217, 119, 6, 0.1) 0%, rgba(245, 158, 11, 0.1) 100%);
+  background: linear-gradient(135deg,#ce7400e5,#aa7800e5);
   border: 2px solid #d97706;
   border-radius: 12px;
   padding: 1rem 1.5rem;
   margin: 1.5rem 0;
-  color: #fbbf24;
+  color: #fff9ea;
   font-size: 0.95rem;
   line-height: 1.5;
   box-shadow: 0 4px 12px rgba(217, 119, 6, 0.2);
@@ -607,7 +607,6 @@
 }
 
 .spine-epoch-disclaimer strong {
-  color: #f59e0b;
   font-weight: 700;
 }
 
@@ -734,7 +733,7 @@
 .stage-card.f5-boss {
   height: 80px;
   width: 180px;
-  background: #8b0000;
+  background: #951717;
   color: white;
   border-color: #4a0000;
   border-width: 3px;
